@@ -1,1 +1,1 @@
-
+Insertion Sort can be applied to sort books by shelf_number in ascending order and, when two books share the same shelf_number, by order_number, ensuring a stable and correctly ordered arrangement.Time complexity is O(n^2)
